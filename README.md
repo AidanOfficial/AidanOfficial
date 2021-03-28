@@ -10,7 +10,7 @@
 *I work with JavaScript, discord.js, the Discord API, Discord Servers, and tons of other things on the internets.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/macedonga/macedonga/master/pfp.svg" width="200px">
+  <img src="https://github.com/AidanOfficial/AidanOfficial/blob/main/Aidan_Transparent_BigRed.png?raw=true" width="200px">
 </p>
 
 <p align="center">
