@@ -4,6 +4,8 @@
 
 👋 ***Say [Hello](mailto:hi@aidan.pw), and see my information, [here](https://aidan.pw).***
 
+![ok](https://discord.c99.nl/widget/theme-1/337325419416125442.png)
+
 <!--
 **AidanOfficial/AidanOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
