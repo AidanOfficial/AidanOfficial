@@ -6,5 +6,5 @@
 
 📨 ***Contact me by [email](mailto:hi@aidan.pw), or on [Discord](https://discord.com/users/337325419416125442).***
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/337325419416125442)](https://discord.com/users/337325419416125442)
 ![ok](https://discord.c99.nl/widget/theme-1/337325419416125442.png)
