@@ -8,6 +8,6 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/337325419416125442)](https://discord.com/users/337325419416125442)
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/337325419416125442" width="150px" alt="Tixte logo">
+  <img src="https://lanyard-profile-readme.vercel.app/api/337325419416125442" width="300px" alt="Tixte logo">
 </p>
 
