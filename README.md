@@ -1,11 +1,14 @@
-### `const name = "aidan"` (otherwise known as:
-`const robloxUsername = "Aidxnbility"`
-`const businessName = "AidanOfficial"`)
+<h1 align="middle">
+  <h1> Hi there, I'm Aidan(Official) or Aidxnbility on ROBLOX</h1>
+</h1>
 
-👋 ***Say [Hello](mailto:hi@aidan.pw), and see my information/links, [here](https://aidan.pw).***
+---
 
-📨 ***Contact me by [email](mailto:hi@aidan.pw), or on [Discord](https://discord.com/users/337325419416125442).***
+### Manager, cybersecurity enthusiast, and developer
+
+👋 ***Say [Hello](mailto:mail@aidan.pw), and see my information/links, [here](https://aidan.pw).***
+
+📨 ***Contact me by [email](mailto:mail@aidan.pw), or on [Discord](https://discord.com/users/337325419416125442).***
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/337325419416125442" width="450px" alt="Aidan's Rich Presence">
+  <img src="https://lanyard-profile-readme.vercel.app/api/337325419416125442" width="450px">
 </p>
-
