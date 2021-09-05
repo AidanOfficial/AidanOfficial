@@ -1,8 +1,5 @@
-<h1 align="middle">
-  <h1> Hi there, I'm Aidan(Official) or Aidxnbility on ROBLOX</h1>
-</h1>
 
----
+  <h1> Hi there, I'm Aidan(Official) or Aidxnbility on ROBLOX</h1>
 
 ### Manager, cybersecurity enthusiast, and developer
 
