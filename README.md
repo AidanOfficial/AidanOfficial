@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="http://aidan.pw/images/AO-logo-web.png" width="200"/>
+</p>
 
-  <h1> Hi there, I'm Aidan(Official) or Aidxnbility on ROBLOX</h1>
+<h1> Hi there, I'm Aidan(Official) or Aidxnbility on ROBLOX</h1>
 
 ### Manager, cybersecurity enthusiast, and developer
 
