@@ -2,7 +2,7 @@
   <img src="http://aidan.pw/images/AO-logo-web.png" width="200"/>
 </p>
 
-<h1> Hi there, I'm Aidan(Official) or 10KA1DAN on ROBLOX</h1>
+<h1> Hi there, I'm Aidan/ai_dan or aidanable on ROBLOX</h1>
 
 ### Manager, cybersecurity enthusiast, and developer
 
